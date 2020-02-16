@@ -4,6 +4,7 @@
 
 ## General
 
+* [Development Ecosystem](general/development-ecosystem.md)
 * [IDE](general/ide.md)
 * [Building the Project](general/building-the-project.md)
 * [Project Setup](general/project-setup.md)

@@ -10,7 +10,10 @@
 * [Project Templates](general/project-templates.md)
 * [Continuous Integration](general/continuous-integration.md)
 * [PyPi](general/pypi.md)
-* [tox](general/tox.md)
-* [Tests](general/tests.md)
 * [Deployment](general/deployment.md)
+
+## Testing
+
+* [Tests](testing/tests.md)
+* [tox](testing/tox.md)
 

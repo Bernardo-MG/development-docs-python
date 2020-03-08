@@ -37,7 +37,7 @@ There is a [test environment for PyPi](https://testpypi.python.org/pypi).
 To deploy:
 
 ```text
-$ python setup.py sdist upload -r pypitest
+python setup.py sdist upload -r pypitest
 ```
 
 ### Deployment configuration

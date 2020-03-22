@@ -16,5 +16,6 @@
 ## Testing
 
 * [Tests](testing/tests.md)
-* [tox](testing/tox.md)
+* [tox](testing/tox/README.md)
+  * [Configuration](testing/tox/configuration.md)
 

@@ -19,3 +19,8 @@
 * [tox](testing/tox/README.md)
   * [Configuration](testing/tox/configuration.md)
 
+## Logging
+
+* [Configuration](logging/configuration.md)
+* [Python logger](logging/python-logger.md)
+

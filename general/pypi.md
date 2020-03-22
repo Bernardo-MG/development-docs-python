@@ -15,12 +15,12 @@ It will be enough saying that dependencies are defined in the requirements.txt f
 This should be run from the project root, where a requirements file should exist.
 
 ```text
-$ pip install --upgrade -r requirements.txt
+pip install --upgrade -r requirements.txt
 ```
 
 ### Install a dependency into the local repository
 
 ```text
-$ pip install [dependency-name]
+pip install [dependency-name]
 ```
 

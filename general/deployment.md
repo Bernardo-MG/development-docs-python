@@ -22,7 +22,11 @@ To build the [Wheel](https://github.com/pypa/wheel) distribution \(requires inst
 python setup.py bdist_wheel
 ```
 
-If possible build both, then deploy them.
+If possible build them both:
+
+```text
+python3 setup.py sdist bdist_wheel
+```
 
 [twine](https://github.com/pypa/twine) can be used to deploy securely:
 

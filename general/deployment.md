@@ -25,7 +25,7 @@ python setup.py bdist_wheel
 If possible build them both:
 
 ```text
-python3 setup.py sdist bdist_wheel
+python setup.py sdist bdist_wheel
 ```
 
 [twine](https://github.com/pypa/twine) can be used to deploy securely:
